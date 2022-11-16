@@ -1,0 +1,7 @@
+{  
+    "title": "next translation demo",
+    "hello": "Hi! This is a translation feature demo.",
+    "nested": {
+        "content":"What is nested?"
+    }
+}
